@@ -1,3 +1,3 @@
-### my CV made using HTML and CSS
+### My CV made using HTML and CSS
 
-It is meant for exporting an A4 PDF.
+It is meant for being exported as an A4 PDF.
